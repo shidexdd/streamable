@@ -6,7 +6,7 @@ local localPlayer    = players.LocalPlayer
 local mouse          = localPlayer:GetMouse()
 
 local library = {
-    cheatname = "frag.pub";
+    cheatname = "LudaWare";
     colorpicking = false;
     tabbuttons = {};
     tabs = {};
